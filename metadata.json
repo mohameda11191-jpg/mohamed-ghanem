@@ -1,0 +1,5 @@
+{
+  "name": "BoothGen AI",
+  "description": "Generate professional exhibition booth and trade show stall concepts instantly using Gemini 2.5.",
+  "requestFramePermissions": []
+}
